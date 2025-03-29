@@ -1,0 +1,21 @@
+streamlit
+pandas 
+matplotlib 
+transformers 
+scikit-learn 
+vaderSentiment 
+instaloader 
+torch 
+joblib 
+python-dotenv 
+pyyaml
+apify_client
+lightgbm
+asyncio
+google.generativeai
+sentencepiece
+spacy
+dotenv
+nest_asyncio
+pip install streamlit-chat
+
